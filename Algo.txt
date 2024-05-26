@@ -1,4 +1,5 @@
 Step 1: Decide which business to order from
 Step 2: Decide which type of pizza to order
 Step 3: Choose carry out or delivery 
+step 4: Pay for your order and decide if you want to tip
 Step 4: enjoy your pizza
